@@ -17,3 +17,6 @@
 10월 5주간 동아리 활동 소감문 작성
 
 10월 올 참석해도 총 참석률 89%;;
+
+
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=c416eb1e0a7f5a2d8ae5&state=f52fda9f-a277-483c-bdd9-c0380cc1a963
